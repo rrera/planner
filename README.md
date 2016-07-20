@@ -1,2 +1,2 @@
 # planner
-Schedule partial job SPA HTML5
+Schedule partial job SPA HTML5..
